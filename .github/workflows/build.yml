@@ -4,6 +4,7 @@ on:
     tags:
     - '*' # Tag events
 
+
 name: Upload Release Asset
 
 jobs:
